@@ -1,8 +1,8 @@
 # PHYS220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman, Jared Love**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-jareod.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-jareod)
 
 ## Specification
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman, Jared Love**
