@@ -21,7 +21,7 @@ This week, you will explore the differences between ```python/numpy``` and the e
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This class work showed us that MATLAB is very similar to octave and is very useful.  It is good to know how to use these different programs that are used by a variety of different people in different fields.  **
 
 ## Honor Pledge
 
